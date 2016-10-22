@@ -11,7 +11,7 @@ import javafx.stage.Stage;
 public class GUI extends Application {
 	Stage primaryStage = new Stage();
 	Text title = new Text("Welcome");
-	Text support = new Text("For Support Contact:\nUSER;
+	Text support = new Text("For Support Contact:\nUSER");
 	public static void main(String[] args) {
 		Application.launch(args);
 	}
