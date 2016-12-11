@@ -1,0 +1,42 @@
+body {
+    
+/*<!-- background-image: url("C:\Users\Sarah\Pictures\graybackground.jpg");  -->   text-decoration-color: rgb(128,128,128); 
+  */
+
+background-color: rgb(239,237,243);
+    padding-right: 80px;
+    padding-left: 250px;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h5 {
+	 text-align: center;
+}
+
+.container dark-grey padding-32 margin-top {
+  text-align: center;
+}
+
+img {
+	 padding-right: auto;
+   padding-left: 250px;
+
+}
+
+hr {
+	display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
